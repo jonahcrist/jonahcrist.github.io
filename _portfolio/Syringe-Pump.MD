@@ -3,10 +3,10 @@ title: "Syringe Pump Project"
 excerpt: "A low-cost medical device made with filament 3D printing that allows for precise control over flow rate"
 header:
   image: /assets/img/SyringePumpPhoto1.png
-  teaser: /assets/img/SyringePumpPhoto2.jpeg
+  teaser: /assets/img/SyringePumpPhoto1.png
 gallery:
-  - image_path: assets/img/.png
-  - image_path: assets/img/.png
+  - image_path: assets/img/SyringePumpPhoto1.png
+  - image_path: assets/img/SyringePumpPhoto2.jpeg
   - image_path: assets/img/.png
    
 ---
