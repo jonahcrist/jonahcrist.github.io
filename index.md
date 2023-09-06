@@ -13,8 +13,7 @@ feature_row:
   - image_path: assets/img/SyringePumpPhoto1.png
     alt: "Syringe Pump"
     title: "Syringe Pump"
-    excerpt: "Built for controlling flow rate of syringe"
+    excerpt: "Built for controlling flow rate of syringe" 
 ---
-
 {% include feature_row %}
 
