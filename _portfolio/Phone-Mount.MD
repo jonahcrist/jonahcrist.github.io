@@ -20,7 +20,7 @@ gallery:
 * After making these early changes to the timeline of my design, the rest of the components came together much quicker than the previous attempt. 
 * And by building in situ, I was able to use as-built joints to retain original relationships between objects. 
 
-*Additionally, I used parametric modeling to automatically resize necessary objects in relation to the diameter of the handlebars, which may change between bicycles.
+* Additionally, I used parametric modeling to automatically resize necessary objects in relation to the diameter of the handlebars, which may change between bicycles.
 
 # Design Rationale
 
@@ -42,7 +42,7 @@ gallery:
 
 # Material & fastener choice
 * Within the options presented by the digital fabrication lab, acrylonitrile butadiene styrene (ABS) is most suitable for the design theory of the phone mount as it has a good balance of properties in its durability to the suboptimal conditions of outdoor use (such as heat) and its impact resistance.
-T* hough thermoplastic polyurethane (TPU) would also offer some interesting qualities as a non-deformable, highly heat resistant material, it does not allow for the placement of heat set inserts. Heat set inserts are key to the design theory of my phone mount as they allow for high levels of security and adjustment in combination with M5 bolts.
+* Though thermoplastic polyurethane (TPU) would also offer some interesting qualities as a non-deformable, highly heat resistant material, it does not allow for the placement of heat set inserts. Heat set inserts are key to the design theory of my phone mount as they allow for high levels of security and adjustment in combination with M5 bolts.
 * As a result, I chose ABS for my phone mount design. It uses heat set inserts with M5 bolts, is highly impact resistant, and performs better in outdoor conditions comparable to our other options in the lab such as PLA. 
 * One concern in the long term use of my ABS phone mount is exposure to UV rays, which may cause some layer separation and fading of the matte black finish over time. This could be prevented in a future design with a more complex material that includes some sort of UV protection.
 
