@@ -2,11 +2,11 @@
 title: "Bicycle Phone Holder Project"
 excerpt: "An adjustable, secure phone mount for a bicycle"
 header:
-  image: /assets/img/PhoneMountPhoto1.png
-  teaser: /assets/img/PhoneMountPhoto1.png
+  image: /assets/img/PhoneMountPhoto1.jpg
+  teaser: /assets/img/PhoneMountPhoto1.jpg
 gallery:
-  - image_path: assets/img/PhoneMountPhoto1.png
-  - image_path: assets/img/PhoneMountPhoto2.jpeg
+  - image_path: assets/img/PhoneMountPhoto1.jpg
+  - image_path: assets/img/PhoneMountPhoto2.jpg
   - image_path: assets/img/.png
    
 ---
