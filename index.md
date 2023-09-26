@@ -15,7 +15,7 @@ feature_row:
     title: "Syringe Pump"
     excerpt: "Built for controlling flow rate of a syringe!"
     
-  - image_path: assets/img/PhoneMountPhoto1.jpg
+  - image_path: assets/img/PhoneMountPhoto1.JPG
     alt: "Phone Mount"
     title: "Phone Mount"
     excerpt: "Designed to mount a phone on your bike!"
