@@ -11,14 +11,15 @@ header:
 excerpt: "Jonah Crist is a student in Human and Organizational Development with a passion for technology and design"
 
 feature_row:
+
   - image_path: assets/img/SyringePumpPhoto1.png
     alt: "Syringe Pump"
-    title: [Syringe Pump] (https://jonahcrist.github.io/portfolio/Syringe-Pump/)
+    title: '[Syringe Pump] (https://jonahcrist.github.io/portfolio/Syringe-Pump/)'
     excerpt: "Built for controlling flow rate of a syringe!"
     
   - image_path: assets/img/PhoneMountRender1.png
     alt: "Phone Mount"
-    title: [Phone Mount] (https://jonahcrist.github.io/portfolio/Phone-Mount/)
+    title: 'Phone Mount] (https://jonahcrist.github.io/portfolio/Phone-Mount/)'
     excerpt: "Designed to mount a phone on your bike!"
     
 ---
