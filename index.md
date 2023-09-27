@@ -16,7 +16,7 @@ feature_row:
     excerpt: "Built for controlling flow rate of a syringe!"
   - image_path: assets/img/PhoneMountRender1.png
     alt: "Phone Mount"
-    title: 'Phone Mount] (https://jonahcrist.github.io/portfolio/Phone-Mount/)'
+    title: '[Phone Mount] (https://jonahcrist.github.io/portfolio/Phone-Mount/)'
     excerpt: "Designed to mount a phone on your bike!"
 ---
 {% include feature_row %}
