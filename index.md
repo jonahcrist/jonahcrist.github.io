@@ -13,16 +13,9 @@ feature_row:
   - image_path: assets/img/SyringePumpPhoto1.png
     alt: "Syringe Pump"
     title: "Syringe Pump"
-    actions:
-    - label: "Syringe Pump"
-      url: "/portfolio/Syringe-Pump/"
-    excerpt: "Built for controlling flow rate of a syringe!"
   - image_path: assets/img/PhoneMountRender1.png
     alt: "Phone Mount"
     title: "Phone Mount"
-    actions:
-    - label: "Phone Mount"
-      url: "/portfolio/Phone-Mount/"
     excerpt: "Designed to mount a phone on your bike!"
 ---
 {% include feature_row %}
