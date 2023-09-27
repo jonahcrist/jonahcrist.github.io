@@ -22,6 +22,5 @@ feature_row:
     excerpt: "Designed to mount a phone on your bike!"
     
 ---
-
 {% include feature_row %}
 
