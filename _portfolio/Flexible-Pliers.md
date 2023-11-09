@@ -10,17 +10,15 @@ gallery:
   - image_path: assets/img/FlexPliersRender1.png
    
 ---
-# Multimaterial Printing
-* Top down modeling is an approach to computer aided design that creates components within a single assembly. 
-* It can be thought of as a method that designs in place (in situ) which is useful in connecting components within a given context at fine relational detail. 
-* While other approaches can achieve similar results, top down modeling is a more efficient way to make quick adjustments to components within an assembly while retaining positions between components.
-* In this project, I started by basing the design off of our two fixed constants – the phone and bicycle handlebars. 
-* In my first attempt to create a model in context, I failed to ground my base design (the handlebars) and instead used projections which caused downstream issues in component designs. 
-* Revising this issue, I grounded the handlebars and used offset planes in the middle to build more effectively within the context of my constants. 
-* After making these early changes to the timeline of my design, the rest of the components came together much quicker than the previous attempt. 
-* And by building in situ, I was able to use as-built joints to retain original relationships between objects. 
+# Multimaterial FFF Printing
+* Multimaterial FFF printing can take many different forms, but generally consists of two or more distinct materials being extruded within the same design.
+* There are niche benefits to the combination of materials for a single benefit, such as strategic use of mechanical properties to enable function as in the case of this project. One could imagine other advantages to such a technique, from creating selectively heat resistant areas of a part to frivolous preferences in design.
+* While there are benefits, multimaterial printing brings a series of drawbacks compared with standard, single material FFF printing. The necessity of operating multiple extruders requires adjustments in the technical approach. In our case, the multimaterial MakerGear FFF printer simply alternates between which filament is being extruded at a time, taking a turn-based rather than simultaneous approach. This is in contrast to some printers with more complex dual extrusion processes, but the MakerGear retains the full-bed size. An issue encountered by a turn-based approach to dual-extrusion is keeping each extruder "at-ready" when the turn comes for each. To prevent jams or oozing due to cooling or overheating between turns, we implement a block to the side of our main print that allows the extruders to trace a simple object layer by layer, which keeps the extruders fresh and ready.
+* In this project, I was assigned to create a set of usable pliers, leveraging the mechanical properties of different polymers. For flexibility, I used TPU and created a center "flex cube" which can be stretched and compressed to create functional movement. For rigidity, I used PLA which is a hard material that will hold the shape of the handles and wings of the plier assembly. 
+* To combine the flexible and rigid components of the part, I needed to create some form of overlap or bond between materials. In this case, I chose to go with a relatively simple perimeter overlap geometry within the CAD design. It only took a few minutes to design within Fusion 360, as the combination required that the flexible TPU cube was partially encased within offsets of the rigid PLA wings and handles.
+* R
 
-* Additionally, I used parametric modeling to automatically resize necessary objects in relation to the diameter of the handlebars, which may change between bicycles.
+* A
 
 # Design Rationale
 
