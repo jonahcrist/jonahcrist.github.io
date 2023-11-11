@@ -18,7 +18,7 @@ feature_row:
     alt: "Phone Mount"
     title: "Phone Mount"
     excerpt: "A phone mount with a rotational axis!"
-  - image_path: assets/img/FlexPliersRender.png
+  - image_path: assets/img/FlexPliersRender.jpg
     alt: "Flexible Pliers"
     title: "Flexible Pliers"
     excerpt: "A print-in-place set of pliers!"
