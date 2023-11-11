@@ -13,10 +13,15 @@ feature_row:
   - image_path: assets/img/SyringePumpPhoto1.png
     alt: "Syringe Pump"
     title: "Syringe Pump"
+    excerpt: "A pump to actuate a syringe!"
   - image_path: assets/img/PhoneMountRender1.png
     alt: "Phone Mount"
     title: "Phone Mount"
-    excerpt: "Designed to mount a phone on your bike!"
+    excerpt: "A phone mount with a rotational axis!"
+  - image_path: assets/img/FlexPliersRender.png
+    alt: "Flexible Pliers"
+    title: "Flexible Pliers"
+    excerpt: "A print-in-place set of pliers!"
 ---
 {% include feature_row %}
 
