@@ -2,13 +2,13 @@
 title: "Flexible Pliers Project"
 excerpt: "A single, multi-material print of usable, flexible pliers"
 header:
-  image: /assets/img/FlexPliersRender.png
-  teaser: /assets/img/FlexPliersRender.png
+  image: /assets/img/FlexPliersRender.jpg
+  teaser: /assets/img/FlexPliersRender.jpg
 gallery:
   - image_path: assets/img/FlexPliersv2.JPG
   - image_path: assets/img/FlexPliersv2.JPG
   - image_path: assets/img/FlexPliersv1.JPG
-  - image_path: assets/img/FlexPliersRender.png
+  - image_path: assets/img/FlexPliersRender.jpg
    
 ---
 # Multimaterial FFF printing
