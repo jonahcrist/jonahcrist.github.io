@@ -7,6 +7,7 @@ header:
 gallery:
   - image_path: assets/img/FlexPliersv2.JPG
   - image_path: assets/img/FlexPliersv2.JPG
+  - image_path: assets/img/FlexPliersv1.JPG
   - image_path: assets/img/FlexPliersRender.png
    
 ---
