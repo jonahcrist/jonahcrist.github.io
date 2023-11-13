@@ -58,6 +58,9 @@ gallery:
 * This fixed jams, but caused some oozing and the TPU later failed after making it roughly 60% of the way through the print.
 * Consider slightly lower temperature above default of 225 but below 245 degrees Celcius.
 
+# Function
+<iframe src="https://giphy.com/embed/Jn1T8XDztY06TFs7zW" width="306" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Jn1T8XDztY06TFs7zW">via GIPHY</a></p>
+
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e7d8bfddda576bb10?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
