@@ -14,6 +14,7 @@ gallery:
 # Description of the microfluidic device and its applications
 * The microfluidic device we created is meant for precision mixing of fluids.
 * It takes the form of a casted polydimethylsiloxane (PDMS) shape created from a vat photopolymerization (VPP) printed mold, and the shape is later bonded to a glass slide for ease of examination with a microscope.
+* For further reading, this [research paper] (https://pubs.rsc.org/en/content/articlelanding/2021/lc/d1lc00744k) is what our project is based on.
 
 # How our microfluidic device was designed
 * We designed our microfluidic device as a simple proof of concept.
