@@ -49,11 +49,10 @@ gallery:
 * Plasma bond glass slide
 
 
-# Function
-<iframe src="https://giphy.com/embed/Jn1T8XDztY06TFs7zW" width="306" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Jn1T8XDztY06TFs7zW">via GIPHY</a></p>
+# YouTube Video
 
 # CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e7d8bfddda576bb10?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e9099bb1016f0b22f?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ---
 
