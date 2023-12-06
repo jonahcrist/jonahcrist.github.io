@@ -17,7 +17,7 @@ gallery:
 * Our class used the following definition for microfluidic devices, from George Whitesides:
 * "Microfluidics are the science and technology of systems that process or manipulate small (10^-9 to 10^-18 L) amounts of fluids, using channels with dimensions of tens to hundreds of micrometers”
 * As you can imagine, there are many applications and extensions of research with microfluidic devices, especially within chemistry and biomedical research. Specifically, they are used for chemical reactions, testing for compounds, and separation of fluids. The incredible results possible with at small scale with microfluidic devices brings advantages in resource utilization, portability, and parallel or simultaneous processing of tests.
-* For further reading, this [research paper] (https://pubs.rsc.org/en/content/articlelanding/2021/lc/d1lc00744k) is what our project is based on.
+* For further reading, this [research paper](https://pubs.rsc.org/en/content/articlelanding/2021/lc/d1lc00744k) is what our project is based on.
 
 # How our microfluidic device was designed
 * We designed our microfluidic device as a simple proof of concept.
