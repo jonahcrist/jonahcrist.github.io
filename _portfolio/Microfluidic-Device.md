@@ -15,7 +15,7 @@ gallery:
 * The microfluidic device we created is meant for precision mixing of fluids.
 * It takes the form of a casted polydimethylsiloxane (PDMS) shape created from a vat photopolymerization (VPP) printed mold, and the shape is later bonded to a glass slide for ease of examination with a microscope.
 * Our class used the following definition for microfluidic devices, from George Whitesides:
-* "Microfluidics are the science and technology of systems that process or manipulate small (10–9 to 10–18 L) amountsof fluids, using channels with dimensions of tens to hundreds of micrometers”
+* "Microfluidics are the science and technology of systems that process or manipulate small (10^-9 to 10^-18 L) amounts of fluids, using channels with dimensions of tens to hundreds of micrometers”
 * As you can imagine, there are many applications and extensions of research with microfluidic devices, especially within chemistry and biomedical research. Specifically, they are used for chemical reactions, testing for compounds, and separation of fluids. The incredible results possible with at small scale with microfluidic devices brings advantages in resource utilization, portability, and parallel or simultaneous processing of tests.
 * For further reading, this [research paper] (https://pubs.rsc.org/en/content/articlelanding/2021/lc/d1lc00744k) is what our project is based on.
 
