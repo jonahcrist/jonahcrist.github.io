@@ -5,10 +5,11 @@ header:
   image: /assets/img/MFDrender.jpg
   teaser: /assets/img/MFDrender.jpg
 gallery:
-  - image_path: assets/img/MFDcast.JPG
-  - image_path: assets/img/MFDmold.JPG
-  - image_path: assets/img/MFDfail.JPG
-  - image_path: assets/img/MFDrender.jpg
+  - image_path: assets/img/MFDcast.jpeg
+  - image_path: assets/img/MFDmold.jpeg
+  - image_path: assets/img/MFDmixing.jpeg
+  - image_path: assets/img/MFDfail.jpeg
+  - image_path: assets/img/MFDrender.png
    
 ---
 
