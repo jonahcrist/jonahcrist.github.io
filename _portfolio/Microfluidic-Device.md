@@ -11,6 +11,9 @@ gallery:
   - image_path: assets/img/MFDrender.jpg
    
 ---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ks-U-MTUucE?si=F1XaSMIxLHF4e_pX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # Description of the microfluidic device and its applications
 * The microfluidic device we created is meant for precision mixing of fluids.
 * It takes the form of a casted polydimethylsiloxane (PDMS) shape created from a vat photopolymerization (VPP) printed mold, and the shape is later bonded to a glass slide for ease of examination with a microscope.
