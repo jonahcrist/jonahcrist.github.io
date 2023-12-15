@@ -6,6 +6,7 @@ header:
   teaser: /assets/img/LBDrender.png
 gallery:
   - image_path: assets/img/LBDexample.jpeg
+  - image_path: assets/img/LBDlargeformatprinter.jpeg
   - image_path: assets/img/LBDresin1.jpeg
   - image_path: assets/img/LBDresin2.jpeg
   - image_path: assets/img/LBDresin3.jpeg
