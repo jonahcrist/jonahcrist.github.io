@@ -109,9 +109,6 @@ gallery:
 ![Resin 2](/assets/img/LBDresin2.jpeg)
 ![Resin 3](/assets/img/LBDresin3.jpeg)
 
-# CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e7d8bfddda576bb10?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
-
 ---
 
 {% include gallery caption="Electric Longboard Gallery" %}
