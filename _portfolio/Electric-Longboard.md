@@ -86,7 +86,7 @@ gallery:
 # Longboard Deck
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6eddeb0165f7b996df?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-* Our given design constraint in the assignment was to limit the maximum deflection to 12mm, which can be calculated through the use of Fusion 360's Simulation tool. A force aorund 700N simulates the weight of a person standing on the deck, assuming ABS for the sake of Fusion.
+* Our given design constraint in the assignment was to limit the maximum deflection to 12mm, which can be calculated through the use of Fusion 360's Simulation tool. A force around 700N simulates the weight of a person standing on the deck, assuming ABS for the sake of Fusion.
   
 # Deflection Simulation (700N)
 ![Deflection](/assets/img/LBdeform.jpeg)
