@@ -23,7 +23,7 @@ gallery:
 # Longboard Assembly
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e2d64f0ada9f7e70a?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# Part 1: Using Generative AI to Design Trucks
+# Using Generative AI to Design Longboard Trucks
 * The first step in our way to making an electric longboard was to use the cutting edge generative design technology available within Fusion 360 to create bespoke aluminum and polymer (Nylon 12) trucks that connect to the baseplate of the longboard.
 * The truck is a key component of a longboard, as it distributes the weight and allows for the range of motion that drives and directs the device.
 
