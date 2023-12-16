@@ -10,26 +10,29 @@ header:
       url: "/portfolio/"
 excerpt: "Jonah Crist is a student in Human and Organizational Development with a passion for technology and design"
 feature_row:
-  - image_path: assets/img/SyringePumpPhoto1.png
-    alt: "Syringe Pump"
-    title: "Syringe Pump"
-    excerpt: "A pump to actuate a syringe!"
-  - image_path: assets/img/PhoneMountRender1.png
-    alt: "Phone Mount"
-    title: "Phone Mount"
-    excerpt: "A phone mount with a rotational axis!"
-  - image_path: assets/img/FlexPliersRender.jpg
-    alt: "Flexible Pliers"
-    title: "Flexible Pliers"
-    excerpt: "A print-in-place set of pliers!"
-  - image_path: assets/img/MFDrender.png
-    alt: "Microfluidic Device"
-    title: "Microfluidic Device"
-    excerpt: "A microfluidic mixing device!"
+  
   - image_path: assets/img/LBrenderUnder.png
     alt: "Electric Longboard"
     title: "Electric Longboard"
     excerpt: "A whole vehicle!"
+  - image_path: assets/img/MFDrender.png
+    alt: "Microfluidic Device"
+    title: "Microfluidic Device"
+    excerpt: "A microfluidic mixing device!"
+  - image_path: assets/img/FlexPliersRender.jpg
+    alt: "Flexible Pliers"
+    title: "Flexible Pliers"
+    excerpt: "A print-in-place set of pliers!"
+  - image_path: assets/img/PhoneMountRender1.png
+    alt: "Phone Mount"
+    title: "Phone Mount"
+    excerpt: "A phone mount with a rotational axis!"
+  - image_path: assets/img/SyringePumpPhoto1.png
+    alt: "Syringe Pump"
+    title: "Syringe Pump"
+    excerpt: "A pump to actuate a syringe!"
+
+
 ---
 {% include feature_row %}
 
