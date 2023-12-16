@@ -26,7 +26,7 @@ feature_row:
     alt: "Microfluidic Device"
     title: "Microfluidic Device"
     excerpt: "A microfluidic mixing device!"
-  - image_path: assets/img/LBrenderDown.png
+  - image_path: assets/img/LBrenderUnder.png
     alt: "Electric Longboard"
     title: "Electric Longboard"
     excerpt: "A whole vehicle!"
