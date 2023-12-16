@@ -80,7 +80,7 @@ gallery:
 
 # Longboard Deck
 * After printing our generatively designed longboard trucks in Nylon 12 polymer, the final step was to design and print large-format longboard decks.
-* As mentioned above, we were able to print these using [Dr. Florian's custom 3D printer](https://www.drdflo.com/pages/Projects/LF3
+* As mentioned above, we were able to print these using [Dr. Florian's custom 3D printer](https://www.drdflo.com/pages/Projects/LF3)
 * The design I created for a longboard deck is embedded below for perusal, it was created with standard geometries and optimized for deflection.
 
 # Longboard Deck
