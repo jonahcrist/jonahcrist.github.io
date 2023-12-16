@@ -89,7 +89,7 @@ gallery:
 * Our given design constraint in the assignment was to limit the maximum deflection to 12mm, which can be calculated through the use of Fusion 360's Simulation tool. A force aorund 700N simulates the weight of a person standing on the deck, assuming ABS for the sake of Fusion.
   
 # Deflection Simulation (700N)
-* ![Deflection](/assets/img/LBdeform.jpeg)
+![Deflection](/assets/img/LBdeform.jpeg)
 
 # Iteration
 * My final deflection number sat at a maximum of ~10.5mm, with a board thickness of 19.5mm.
