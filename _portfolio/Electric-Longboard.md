@@ -115,8 +115,7 @@ gallery:
 ![Resin 3](/assets/img/LBDresin3.jpeg)
 
 
-# Thank you
-* I appreciate your attention to my project, it was a great experience and I look forward to riding the completed model in the coming month.
+# Thank you for reading!
 ---
 
 {% include gallery caption="Electric Longboard Gallery" %}
