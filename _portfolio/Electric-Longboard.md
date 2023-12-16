@@ -1,6 +1,6 @@
 ---
-title: "Deck - Electric Longboard Project"
-excerpt: "A large format 3D print of a longboard, capable of supporting a human"
+title: "Electric Longboard Project"
+excerpt: "A multimodal, large format 3D print of an electric longboard, capable of supporting a human"
 header:
   image: /assets/img/LBrenderUnder.png
   teaser: /assets/img/LBrenderUnder.png
