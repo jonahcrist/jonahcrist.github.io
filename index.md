@@ -22,7 +22,7 @@ feature_row:
     alt: "Flexible Pliers"
     title: "Flexible Pliers"
     excerpt: "A print-in-place set of pliers!"
-  - image_path: assets/img/MFDmold.jpg
+  - image_path: assets/img/MFDrender.png
     alt: "Microfluidic Device"
     title: "Microfluidic Device"
     excerpt: "A microfluidic mixing device!"
