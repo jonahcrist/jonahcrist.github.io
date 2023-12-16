@@ -16,7 +16,7 @@ gallery:
 ---
 # CHBE 4200 - Final Project
 * As part of our final project in the course, we each created an electric longboard using a combination of 3D printing techniques.
-* The primary goals of the project was to use powder bed fusion (selective laser sintering) and generative design tools available within Fusion 360 to design strong yet lightweight parts for a longboard.
+* The primary goal of the project was to use powder bed fusion (selective laser sintering) and generative design tools available within Fusion 360 to design strong yet lightweight parts for a longboard.
 * In addition, we were able to use our professor, Dr. David Florian's large format 3D printer to print a deck for the longboard. More information on the creation of this printer can be found [here](https://www.drdflo.com/pages/Projects/LF3DP.html).
 * To start with the end in mind, here is the final assembly design of my skateboard in Fusion 360. You are able to toggle the aluminum and polymer truck designs on and off to see the differences within the file:
   
