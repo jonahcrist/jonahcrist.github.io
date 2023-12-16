@@ -54,21 +54,29 @@ gallery:
 * Not only is there great potential for weight reduction, but there is also potential for the use of generative design in terms of modeling aerodynamics and optimizing for that.
 * Altogether, by using algorithms with solid data points on constraints and goals, the aerospace and automotive industry can raise their efficiency of design, hopefully reducing fuel/energy consumption and going further and faster.
 
-# Weaknesses and Limitations
+# Limitations
+*  Complex and expensive -
+*  The safety procedures around the operation metal powder bed fusion machines must be extremely rigorous and the machines contained, as the fine metal particles are highly dangerous
+*  The costs of operating these machines, in both fixed and variable sense is also incredibly high
 *  Post-processing of metal parts -
-*  
+*  Anything created by a metal powder bed fusion 3D printer must undergo significant post-processing steps that further add to the complications and expenses
 
-# Example Applications
-*  3D Printed Racecar -
-*  
-*  Seatbelt example -
-*  
+# Resulting Usecases
+*  Due to the aforementioned weaknesses of the technology as it stands, metal powder bed fusion is best for two scenarios (1) mold creation and (2) bespoke needs. To explain this further, below are two examples of each.
+
+#  Michelin - Tire Mold
+*  In this scenario, Michelin used a metal powder bed fusion machine to create mold for tire geometries that were fine and complex, and could then be used in the creation of innumerable tires going forward.
+*  [Link for more information](https://www.moldmakingtechnology.com/products/powder-bed-fusion-printer-creates-molds-with-increasingly-complex-geometries)
+  
+#  Bugatti - Brake Caliper
+* The brake caliper created here with metal powder bed fusion was created specifically for an extremely high performance vehicle, which represents the bespoke usage where there is great potential across automotive and aerospace industries. Whether metal powder bed fusion is used for a plane, a Bugatti, or a F1 racecar, the advantages are most clear at the cutting edge of performance.
+* [Link for more information](https://www.3dnatives.com/en/bugatti-3d-printed-brake-caliper-230120184/#!)
 
 
 # Going Forward
 * The unique pairing of powder bed fusion and generative design is paving the way for revolutionary changes in aerospace and automotive industries.
 * The ability to create optimized, lightweight, and strong components is not only enhancing the performance and efficiency of these sectors but also contributing to more sustainable practices.
-* As these technologies continue to evolve, they are likely to unlock even more groundbreaking possibilities, reshaping the way we approach design and manufacturing in these critical industries.
+* As these technologies continue to evolve, they are likely to unlock even more groundbreaking possibilities, reshaping the way we approach design and manufacturing in these critical industries. But it is important to recognize the limitations of cost and scalability in understanding how the market for powder bed fusion and generative design shift and develop in the years to come.
 
 * ![Results](assets/img/LBDexample.png)
   
