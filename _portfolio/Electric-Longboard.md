@@ -41,24 +41,17 @@ gallery:
 PBF is an additive manufacturing process where a laser or electron beam selectively fuses powdered material to build a component layer by layer. This technique is particularly useful for creating complex geometries that are difficult or impossible to manufacture using traditional methods. The specific advantage is that it allows for unsupported geometries and overhangs, which removes a major design constraints.
 
 # Generative Design
-GD, on the other hand, is an iterative design process that harnesses the power of trained machine learning models to generate structures and shapes that meet given load constraints. With the user input of these goals and constraints, the software can explore thousands of possible configurations to find the most efficient design, often appearing as a more organic, unconventional solution.
+Generative design is an iterative process that harnesses the power of trained machine learning models to generate structures and shapes that meet given load constraints. With the user input of these goals and constraints, the software within Fusion 360 can explore many possible configurations to find the most efficient design, often appearing as a more organic, unconventional solution.
 
 # Synergies
-* The respective strengths of generative design tools and powder bed fusion allows for almost limitless possibilities in design and creation. In essence, the technology of PBF in allowing for unsupported geometries enables more GD possibilties and connections to explore. The resulting parts can be both strong and lightweight, if the user inputs of constraints and goals are well bounded and directed.
+* The respective strengths of generative design tools and powder bed fusion allows for almost limitless possibilities in design and creation. In essence, the technology of PBF in allowing for unsupported geometries enables more possibilties and connections to explore. The resulting parts can be both strong and lightweight, if the user inputs of constraints and goals are well bounded and directed.
 
-# Applications in Aerospace Industry
-Lightweight and Strong Components
-In aerospace engineering, where weight-to-performance ratio is crucial, GD offers innovative topology optimization solutions. These solutions lead to products that use fewer resources yet outperform heavier, traditionally designed alternatives​​. For instance, current research in aircraft design focuses on reducing the weight of airplanes and their components, optimizing performance, and contributing to the reduction of fuel consumption and operational costs​​.
+# Applications in Aerospace & Automotive Industry
+* In aerospace engineering, where weight-to-performance ratio is crucial, these technologies have great potential for solving for the dual optimization of weight and strength. Generative design solutions can lead to products that use fewer resources yet outperform heavier, traditionally designed alternatives​​.
+* Not only is there great potential for weight reduction, but there is also potential for the use of generative design in terms of modeling aerodynamics and optimizing for that. Altogether, by using algorithms with solid data points on constraints and goals, the aerospace industry can raise their efficiency of design and hopefully reduce fuel consumption and operational costs​​.
 
-Generating Greener Aircraft
-GD is instrumental in creating new aircraft designs that are more environmentally friendly. The ability to optimize component design for weight and material efficiency directly contributes to the creation of greener aircraft​​.
-
-Synergy with Additive Manufacturing
-The synergy between GD and additive manufacturing, like PBF, is particularly potent in the aerospace industry. This combination allows for the creation of components with complex geometries that are not just lighter and stronger, but also more efficient in terms of material usage and production time​​.
-
-Applications in Automotive Industry
-Electric Vehicles
-Drawing from the example provided in your documents, the project involving Vanderbilt’s Wond’ry and Nissan to build an electric longboard showcases the application of these technologies in the automotive sector. The generative design was used to create a lightweight truck hanger with an integrated motor mount, emphasizing the technology’s capability for lightweighting and consolidating assemblies​​.
+# Applications in Automotive Industry
+* Similar to aerospace, 
 
 Design and Manufacturing Flexibility
 The project also demonstrates the flexibility in design and manufacturing. For example, the design considerations for the longboard, such as the max part size for printing and the wheel's bearing size, illustrate the precision and adaptability offered by GD in conjunction with PBF​​.
