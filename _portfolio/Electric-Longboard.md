@@ -14,55 +14,73 @@ gallery:
   - image_path: assets/img/LBDrender.png
    
 ---
-# Multimaterial FFF printing
-* Multimaterial FFF printing can take many different forms, but generally consists of two or more distinct materials being extruded within the same design.
-* There are niche benefits to the combination of materials for a single benefit, such as strategic use of mechanical properties to enable function as in the case of this project. One could imagine other advantages to such a technique, from creating selectively heat resistant areas of a part to frivolous preferences in design.
-* Multimaterial printing brings a series of drawbacks compared with standard, single material FFF printing. The necessity of operating multiple extruders requires adjustments in the technical approach. In our case, the multimaterial MakerGear FFF printer simply alternates between which filament is being extruded at a time, taking a turn-based rather than simultaneous approach. This is in contrast to some printers with more complex dual extrusion processes, but the MakerGear retains the full-bed size. An issue encountered by a turn-based approach to dual-extrusion is keeping each extruder "at-ready" when the turn comes for each. To prevent jams or oozing due to cooling or overheating between turns, we implement a block to the side of our main print that allows the extruders to trace a simple object layer by layer, which keeps the extruders fresh and ready.
+# CAD: Longboard Assembly
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e2d64f0ada9f7e70a?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+# CAD: Longboard Deck
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6eddeb0165f7b996df?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+# CAD: Aluminum Truck
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e2580629e5e3d877b?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+# CAD: Nylon 12 Polymer Truck
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ead3aefdb794e1ea5?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+Github 4
+
+# Aluminum
+* Embed fusion
+* Render of assembly
 
 
-# Print-in-place parts
-*  Print-in-place parts have a broad range of potential applications, from consumer products like sliding puzzles and unfoldable boxes to complex aerospace and nautical machinery.
-*  Applications in consumer products are largely limited beyond novelty at this point due to the low cost efficiency and inconsistent quality of 3D printed items when compared with injection molds. But it is not hard to imagine a future where assembly-line efficiency is improved by print-in-place techniques that do not require any later assembly beyond the initial process of formation.
-*  In other more complex situations, the niche advantages of print-in-place parts really stand out in terms of their potential. In underwater applications for example, geometries that are printed in place can bring a degree of waterproofing that may be easier achieved than in multi-part assemblies. The flexibility of creating parts in place also has intriguing implications for limited-pack scenarios such as space missions, where each additional item brought carries an extraordinary marginal cost. By potentially allowing for a single printer to be used to create a variety of useful-print-in-place items, there could be significant advantages in the translation of material to parts which could save money by increasing packing density.
+# Polymer
+* Embed fusion
+* Render of assembly
 
-# Material combinations
-*  PLA and TPU: Polylactic acid (PLA) is a commonly used 3D printing material that is easy to print and rigid in mechanical properties.
-*  When combined with thermoplastic polyurethane (TPU), which is flexible and elastic, print-in-place parts with both rigid and flexible components can achieve a balance between strength and flexibility such as in this project.
-*  PLA and PVA: Polyvinyl alcohol (PVA) is a water-soluble support material. When combined with PLA, PVA can be used as a support structure around complex parts with intricate moving components and then it is easily dissolved with water afterwards.
-*  Other combinations are possible as well, but it is important to carefully research and examine how the materials interact at a chemical level and what unique properties each brings to the multimaterial design, as well as the printing conditions necessary for each.
-  
-# About the design
-* In this project, I was assigned to create a set of usable pliers, leveraging the mechanical properties of different polymers. For flexibility, I used TPU and created a center "flex cube" which can be stretched and compressed to create functional movement. For rigidity, I used PLA which is a hard material that will hold the shape of the handles and wings of the plier assembly. 
-* To combine the flexible and rigid components of the part, I needed to create some form of overlap or bond between materials. In this case, I chose to go with a relatively simple perimeter overlap geometry within the CAD design. It only took a few minutes to design within Fusion 360, as the combination required that the flexible TPU cube was partially encased within offsets of the rigid PLA wings and handles.
-  
-# Elements
-* Grips - Allows user to grip and squeeze pliers comfortably
-*   Simple design, hollowed out with an offset to minimize print speed
-*   Can resize print parameters for different situations, 100mm length was sufficient for comfort in this case
-* Wings - Individual pieces that clamp together onto objects of small sizes
-*   Clearance is small in this print (10mm) as modelled for use on small resistors
-*   Print parameters can be adjusted for more wide-ranging use cases
-* Flex Cube - Allowance for deformation to create function of pliers
-*   Must be overlapping/interwoven in a geometry with the hard parts of the pliers (i.e. grip and wings)
-*   Must be flexible enough to grip at reasonable levels of pressure but strong enough to return to form when released
+# Results
+* Real life images of prints
 
-# Material & fastener choice
-* PLA - Hard and easily printable polymer that was readily available in lab
-* TPU - Flexible polymer needed for its mechanical properties in the print-place plier design
+# Powder Bed Fusion (Selective Laser Sintering - SLS)
+PBF is an additive manufacturing process where a laser or electron beam selectively fuses powdered material to build a component layer by layer. This technique is particularly useful for creating complex geometries that are difficult or impossible to manufacture using traditional methods. The specific advantage is that it allows for unsupported geometries and overhangs, which removes a major design constraints.
 
-# Relevant specifications
-* Jaw length: Pincers have a contact point of 14mm, with an additional 50-60mm space below in the jaws
-* Jaw capacity: Objects with a 0-10mm thickness, with some added functionality from 10-15mm if expanded first
+# Generative Design
+GD, on the other hand, is an iterative design process that harnesses the power of trained machine learning models to generate structures and shapes that meet given load constraints. With the user input of these goals and constraints, the software can explore thousands of possible configurations to find the most efficient design, often appearing as a more organic, unconventional solution.
 
-# Print settings
-* MakerGear M3
-* Default print settings for multimaterial in Digital Fabrication Lab, except:
-* Increased TPU print temperature to 245 degrees Celcius after early print jams
-* This fixed jams, but caused some oozing and the TPU later failed after making it roughly 60% of the way through the print.
-* Consider slightly lower temperature above default of 225 but below 245 degrees Celcius.
+# Synergies
+* The respective strengths of generative design tools and powder bed fusion allows for almost limitless possibilities in design and creation. In essence, the technology of PBF in allowing for unsupported geometries enables more GD possibilties and connections to explore. The resulting parts can be both strong and lightweight, if the user inputs of constraints and goals are well bounded and directed.
 
-# Function
-<iframe src="https://giphy.com/embed/Jn1T8XDztY06TFs7zW" width="306" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Jn1T8XDztY06TFs7zW">via GIPHY</a></p>
+# Applications in Aerospace Industry
+Lightweight and Strong Components
+In aerospace engineering, where weight-to-performance ratio is crucial, GD offers innovative topology optimization solutions. These solutions lead to products that use fewer resources yet outperform heavier, traditionally designed alternatives​​. For instance, current research in aircraft design focuses on reducing the weight of airplanes and their components, optimizing performance, and contributing to the reduction of fuel consumption and operational costs​​.
+
+Generating Greener Aircraft
+GD is instrumental in creating new aircraft designs that are more environmentally friendly. The ability to optimize component design for weight and material efficiency directly contributes to the creation of greener aircraft​​.
+
+Synergy with Additive Manufacturing
+The synergy between GD and additive manufacturing, like PBF, is particularly potent in the aerospace industry. This combination allows for the creation of components with complex geometries that are not just lighter and stronger, but also more efficient in terms of material usage and production time​​.
+
+Applications in Automotive Industry
+Electric Vehicles
+Drawing from the example provided in your documents, the project involving Vanderbilt’s Wond’ry and Nissan to build an electric longboard showcases the application of these technologies in the automotive sector. The generative design was used to create a lightweight truck hanger with an integrated motor mount, emphasizing the technology’s capability for lightweighting and consolidating assemblies​​.
+
+Design and Manufacturing Flexibility
+The project also demonstrates the flexibility in design and manufacturing. For example, the design considerations for the longboard, such as the max part size for printing and the wheel's bearing size, illustrate the precision and adaptability offered by GD in conjunction with PBF​​.
+
+Broad Range of Materials
+The use of materials like Nylon 12 and ALSi10Mg in the project points to the broad range of materials that can be utilized in PBF, offering versatility in automotive applications​​.
+
+Conclusion
+The unique pairing of powder bed fusion and generative design is paving the way for revolutionary changes in aerospace and automotive industries. The ability to create optimized, lightweight, and strong components is not only enhancing the performance and efficiency of these sectors but also contributing to more sustainable practices. As these technologies continue to evolve, they are likely to unlock even more groundbreaking possibilities, reshaping the way we approach design and manufacturing in these critical industries.
+
+# Github 5 - 
+
+# CAD model for the longboard deck.
+# Be sure that it fits on the large format 3D printer and abides by the other design criteria (e.g., cut out for the truck-mounting plate).
+# Simulation of the deflection of the deck (include picture of results similar to Figure 3).
+# Did you change the deck design in order to get less deflection or less material?
+# Document the iterative process.
+# Description (~300 words) of the deck design.
+# A scale model of an assembled longboard (deck, wheels, trucks, motor, etc.) printed on a Voron 3D Printer. Include a picture on your website.
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e7d8bfddda576bb10?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
