@@ -2,8 +2,8 @@
 title: "Deck - Electric Longboard Project"
 excerpt: "A large format 3D print of a longboard, capable of supporting a human"
 header:
-  image: /assets/img/LBDexample.jpeg
-  teaser: /assets/img/LBDrender.png
+  image: /assets/img/LBrenderUnder.png
+  teaser: /assets/img/LBrenderUnder.png
 gallery:
   - image_path: assets/img/LBDexample.jpeg
   - image_path: assets/img/LBDlargeformatprinter.jpeg
