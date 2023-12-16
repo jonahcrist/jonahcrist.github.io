@@ -78,20 +78,36 @@ gallery:
 * The ability to create optimized, lightweight, and strong components is not only enhancing the performance and efficiency of these sectors but also contributing to more sustainable practices.
 * As these technologies continue to evolve, they are likely to unlock even more groundbreaking possibilities, reshaping the way we approach design and manufacturing in these critical industries. But it is important to recognize the limitations of cost and scalability in understanding how the market for powder bed fusion and generative design shift and develop in the years to come.
 
-* ![Results](assets/img/LBDexample.png)
-  
-# Github 5 - 
+# Longboard Deck
+* After printing our generatively designed longboard trucks in Nylon 12 polymer, the final step was to design and print large-format longboard decks.
+* As mentioned above, we were able to print these using [Dr. Florian's custom 3D printer](https://www.drdflo.com/pages/Projects/LF3
+* The design I created for a longboard deck is embedded below for perusal, it was created with standard geometries and optimized for deflection.
 
 # Longboard Deck
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6eddeb0165f7b996df?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# Simulation of the deflection of the deck (include picture of results similar to Figure 3).
+* Our given design constraint in the assignment was to limit the maximum deflection to 12mm, which can be calculated through the use of Fusion 360's Simulation tool. A force aorund 700N simulates the weight of a person standing on the deck, assuming ABS for the sake of Fusion.
+  
+# Deflection Simulation (700N)
 * ![Deflection](/assets/img/LBdeform.jpeg)
-# Did you change the deck design in order to get less deflection or less material?
-# Document the iterative process.
+
+# Iteration
+* My final deflection number sat at a maximum of ~10.5mm, with a board thickness of 19.5mm.
+* The original design I created was at a thickness of 17mm, but I had to make a slight adjustment to meet the design constraint.
+* Fortunately, the use of a simulation tool within Fusion 360 prevented the need to conduct multiple prints to guess and check, which would have had significant material costs even with plastic due to the large format nature of this design.
+  
 # Description (~300 words) of the deck design.
-* ![Results](/assets/img/LBDexample.png)
-# A scale model of an assembled longboard (deck, wheels, trucks, motor, etc.) printed on a Voron 3D Printer. Include a picture on your website.
+
+# Large Format Print in Progress
+![Large Format Print](/assets/img/LBDlargeformatprinter.jpeg)
+
+# Large Format Print Complete
+![Large Format Print](/assets/img/LBDexample.jpeg)
+
+# Resin Printed Scale Model
+![Resin 1](/assets/img/LBDresin1.jpeg)
+![Resin 2](/assets/img/LBDresin2.jpeg)
+![Resin 3](/assets/img/LBDresin3.jpeg)
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e7d8bfddda576bb10?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
