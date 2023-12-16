@@ -2,8 +2,8 @@
 title: "Microfluidic Device Project"
 excerpt: "A microfluidic mixing device casted in a 3D printed mold"
 header:
-  image: /assets/img/MFDrender.jpg
-  teaser: /assets/img/MFDrender.jpg
+  image: /assets/img/MFDrender.png
+  teaser: /assets/img/MFDrender.png
 gallery:
   - image_path: assets/img/MFDcast.jpeg
   - image_path: assets/img/MFDmold.jpeg
