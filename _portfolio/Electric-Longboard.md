@@ -96,7 +96,12 @@ gallery:
 * The original design I created was at a thickness of 17mm, but I had to make a slight adjustment to meet the design constraint.
 * Fortunately, the use of a simulation tool within Fusion 360 prevented the need to conduct multiple prints to guess and check, which would have had significant material costs even with plastic due to the large format nature of this design.
   
-# Description (~300 words) of the deck design.
+# Deck Design
+* The design of my longboard design was relatively straightforward, with the objectives to (1) meet deflection standard, (2) strike a balance between strength and flexibility, and (3) fit within standard longboard sizes.
+* To start with the simplest criteria, I selected a wheelbase of 27" which is within the standard range of 25" to 35" for longboards. My hope here was to minimize the weight of the board, knowing the thickness of plastic required to limit deflection sufficiently. I also was hoping to experiment with a smaller longboard just for mobility, though knowing it will risk stability.
+* The second criteria, strength and flexibility, I sought to achieve by simple geometric (largely circular) cutouts of the standard board base. I wanted the board to be perforated, with small enough holes to maintain strength but still save on material use, weight, and range of flexibility.
+* The third major criteria was the aforementioned deflection simulation, which is important as it prevents the rider's weight from deforming the board to the extent of contact between the ground and undercarriage which would likely result in an accident and severe damage.
+* The only other major design component to mention is the cutout on either end of the wheelbase, which is a given space for a plate that will attach the baseplate to the longboard. If we instead attempted to attach the baseplate to the 3D printed board, there would occur shearing between the layer lines and the fastener with continued use.
 
 # Large Format Print in Progress
 ![Large Format Print](/assets/img/LBDlargeformatprinter.jpeg)
@@ -109,6 +114,9 @@ gallery:
 ![Resin 2](/assets/img/LBDresin2.jpeg)
 ![Resin 3](/assets/img/LBDresin3.jpeg)
 
+
+# Thank you
+* I appreciate your attention to my project, it was a great experience and I look forward to riding the completed model in the coming month.
 ---
 
 {% include gallery caption="Electric Longboard Gallery" %}
