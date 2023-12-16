@@ -61,7 +61,7 @@ gallery:
 *  Post-processing of metal parts -
 *  Anything created by a metal powder bed fusion 3D printer must undergo significant post-processing steps that further add to the complications and expenses
 
-# Resulting Usecases
+# Resulting Use-Cases
 *  Due to the aforementioned weaknesses of the technology as it stands, metal powder bed fusion is best for two scenarios (1) mold creation and (2) bespoke needs. To explain this further, below are two examples of each.
 
 #  Michelin - Tire Mold
