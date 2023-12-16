@@ -1,6 +1,6 @@
 ---
 title: "Electric Longboard Project"
-excerpt: "A multimodal 3D print of an electric longboard!"
+excerpt: "The creation and assembly of an electric longboard!"
 header:
   image: /assets/img/LBrenderUnder.png
   teaser: /assets/img/LBrenderUnder.png
