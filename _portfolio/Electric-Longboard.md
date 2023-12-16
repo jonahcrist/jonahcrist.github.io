@@ -37,7 +37,7 @@ gallery:
 
 * But before going any further in the analysis of outcomes, I'd like to further discuss the technologies that we learned about through this process.
 
-# Powder Bed Fusion (Selective Laser Sintering - SLS)
+# Powder Bed Fusion
 * PBF is an additive manufacturing process where a laser or electron beam selectively fuses powdered material to build a component layer by layer.
 * This technique is particularly useful for creating complex geometries that are difficult or impossible to manufacture using traditional methods, as its specific advantage is how it allows for unsupported geometries and overhangs, which removes a major set of design constraints.
 
