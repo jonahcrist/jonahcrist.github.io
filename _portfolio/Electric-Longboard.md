@@ -14,16 +14,15 @@ gallery:
   - image_path: assets/img/LBDrender.png
    
 ---
-# CAD: Longboard Assembly
+
+# Longboard Assembly
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e2d64f0ada9f7e70a?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# CAD: Longboard Deck
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6eddeb0165f7b996df?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# CAD: Aluminum Truck
+# Aluminum Truck
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e2580629e5e3d877b?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# CAD: Nylon 12 Polymer Truck
+# Nylon 12 Polymer Truck
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ead3aefdb794e1ea5?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 Github 4
@@ -31,7 +30,6 @@ Github 4
 # Aluminum
 * Embed fusion
 * Render of assembly
-
 
 # Polymer
 * Embed fusion
@@ -74,9 +72,11 @@ The unique pairing of powder bed fusion and generative design is paving the way 
 
 # Github 5 - 
 
-# CAD model for the longboard deck.
-# Be sure that it fits on the large format 3D printer and abides by the other design criteria (e.g., cut out for the truck-mounting plate).
+# Longboard Deck
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6eddeb0165f7b996df?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 # Simulation of the deflection of the deck (include picture of results similar to Figure 3).
+- image: /assets/img/LBdeform.jpeg
 # Did you change the deck design in order to get less deflection or less material?
 # Document the iterative process.
 # Description (~300 words) of the deck design.
@@ -87,5 +87,5 @@ The unique pairing of powder bed fusion and generative design is paving the way 
 
 ---
 
-{% include gallery caption="Flexible Pliers Gallery" %}
+{% include gallery caption="Electric Longboard Gallery" %}
 
