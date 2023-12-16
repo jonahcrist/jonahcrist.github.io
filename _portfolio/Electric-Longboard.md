@@ -38,42 +38,51 @@ gallery:
 * But before going any further in the analysis of outcomes, I'd like to further discuss the technologies that we learned about through this process.
 
 # Powder Bed Fusion (Selective Laser Sintering - SLS)
-PBF is an additive manufacturing process where a laser or electron beam selectively fuses powdered material to build a component layer by layer. This technique is particularly useful for creating complex geometries that are difficult or impossible to manufacture using traditional methods. The specific advantage is that it allows for unsupported geometries and overhangs, which removes a major design constraints.
+* PBF is an additive manufacturing process where a laser or electron beam selectively fuses powdered material to build a component layer by layer.
+* This technique is particularly useful for creating complex geometries that are difficult or impossible to manufacture using traditional methods, as its specific advantage is how it allows for unsupported geometries and overhangs, which removes a major set of design constraints.
 
 # Generative Design
-Generative design is an iterative process that harnesses the power of trained machine learning models to generate structures and shapes that meet given load constraints. With the user input of these goals and constraints, the software within Fusion 360 can explore many possible configurations to find the most efficient design, often appearing as a more organic, unconventional solution.
+* Generative design is an iterative process that harnesses the power of trained machine learning models to generate structures and shapes that meet given load constraints.
+* With the user input of these goals and constraints, the software within Fusion 360 can explore many possible configurations to find the most efficient design, often appearing as a more organic, unconventional solution.
 
 # Synergies
 * The respective strengths of generative design tools and powder bed fusion allows for almost limitless possibilities in design and creation. In essence, the technology of PBF in allowing for unsupported geometries enables more possibilties and connections to explore. The resulting parts can be both strong and lightweight, if the user inputs of constraints and goals are well bounded and directed.
 
-# Applications in Aerospace & Automotive Industry
-* In aerospace engineering, where weight-to-performance ratio is crucial, these technologies have great potential for solving for the dual optimization of weight and strength. Generative design solutions can lead to products that use fewer resources yet outperform heavier, traditionally designed alternatives​​.
-* Not only is there great potential for weight reduction, but there is also potential for the use of generative design in terms of modeling aerodynamics and optimizing for that. Altogether, by using algorithms with solid data points on constraints and goals, the aerospace industry can raise their efficiency of design and hopefully reduce fuel consumption and operational costs​​.
+# Potential in Aerospace & Automotive Industry
+* In automotive, and especially aerospace engineering, weight-to-performance ratio is crucial. As such, the synergistic advantages of these two technologies have great potential for solving for the dual optimization of weight and strength.
+* Generative design solutions created with powder bed fusion can lead to products that use fewer resources yet outperform heavier, traditionally designed alternatives​​.
+* Not only is there great potential for weight reduction, but there is also potential for the use of generative design in terms of modeling aerodynamics and optimizing for that.
+* Altogether, by using algorithms with solid data points on constraints and goals, the aerospace and automotive industry can raise their efficiency of design, hopefully reducing fuel/energy consumption and going further and faster.
 
-# Applications in Automotive Industry
-* Similar to aerospace, 
+# Weaknesses and Limitations
+*  Post-processing of metal parts -
+*  
 
-Design and Manufacturing Flexibility
-The project also demonstrates the flexibility in design and manufacturing. For example, the design considerations for the longboard, such as the max part size for printing and the wheel's bearing size, illustrate the precision and adaptability offered by GD in conjunction with PBF​​.
+# Example Applications
+*  3D Printed Racecar -
+*  
+*  Seatbelt example -
+*  
 
-Broad Range of Materials
-The use of materials like Nylon 12 and ALSi10Mg in the project points to the broad range of materials that can be utilized in PBF, offering versatility in automotive applications​​.
 
-Conclusion
-The unique pairing of powder bed fusion and generative design is paving the way for revolutionary changes in aerospace and automotive industries. The ability to create optimized, lightweight, and strong components is not only enhancing the performance and efficiency of these sectors but also contributing to more sustainable practices. As these technologies continue to evolve, they are likely to unlock even more groundbreaking possibilities, reshaping the way we approach design and manufacturing in these critical industries.
+# Going Forward
+* The unique pairing of powder bed fusion and generative design is paving the way for revolutionary changes in aerospace and automotive industries.
+* The ability to create optimized, lightweight, and strong components is not only enhancing the performance and efficiency of these sectors but also contributing to more sustainable practices.
+* As these technologies continue to evolve, they are likely to unlock even more groundbreaking possibilities, reshaping the way we approach design and manufacturing in these critical industries.
 
 * ![Results](assets/img/LBDexample.png)
+  
 # Github 5 - 
 
 # Longboard Deck
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6eddeb0165f7b996df?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Simulation of the deflection of the deck (include picture of results similar to Figure 3).
-- image: /assets/img/LBdeform.jpeg
+* ![Deflection](/assets/img/LBdeform.jpeg)
 # Did you change the deck design in order to get less deflection or less material?
 # Document the iterative process.
 # Description (~300 words) of the deck design.
-* ![Results](assets/img/LBDexample.png)
+* ![Results](/assets/img/LBDexample.png)
 # A scale model of an assembled longboard (deck, wheels, trucks, motor, etc.) printed on a Voron 3D Printer. Include a picture on your website.
 
 # CAD Model
